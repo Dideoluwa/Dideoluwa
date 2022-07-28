@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/darasimi-oni-169032236/">
@@ -11,9 +11,9 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### :man_technologist: About Me :
 -  :telescope:  Hi, I’m a Frontend developer with delighted interest on how the web works in general, building web pages with friendly user interfaces and  web apps with Javascript and libraries like React.
@@ -34,3 +34,8 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dideoluwa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIdeoluwa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
