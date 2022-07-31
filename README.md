@@ -18,8 +18,8 @@
 ### :man_technologist: About Me :
 -  :telescope:  Hi, I’m a Frontend developer with delighted interest on how the web works in general, building web pages with friendly user interfaces and  web apps with Javascript and libraries like React.
 <!-- - :seedling:Progressing Fullstack by exploring Reactjs -->
-- :zap: In my free time listen to music.
-- 👀 I’m interested in web, software development.
+- :zap: In my free time, I listen to music.
+- 👀 I’m interested in web and software development.
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 [![Linkedin Badge](https://img.shields.io/badge/-dideoluwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darasimi-oni-169032236/) is where you can get to me on LinkedIn.
 <hr>
@@ -38,4 +38,5 @@ Languages and Tools :
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dideoluwa&theme=merko)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIdeoluwa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=Dideoluwa)
 
