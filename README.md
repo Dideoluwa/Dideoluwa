@@ -16,7 +16,7 @@
 
 
 ### :man_technologist: About Me :
--  :telescope:  Hi, I’m a Frontend developer with delighted interest on how the web works in general, building web pages with friendly user interfaces and  web apps with Javascript and libraries like React.
+-  :telescope:  Hi, I’m a Frontend developer enthusiastic about how the web works in general, building web pages with friendly user interfaces and  web apps with Javascript and libraries like React.
 <!-- - :seedling:Progressing Fullstack by exploring Reactjs -->
 - :zap: In my free time, I listen to music.
 - 👀 I’m interested in web and software development.
