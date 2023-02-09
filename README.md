@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
@@ -12,7 +12,7 @@
 <hr>
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 
 ### :man_technologist: About Me :
