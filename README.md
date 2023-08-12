@@ -23,6 +23,7 @@
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 [![Linkedin Badge](https://img.shields.io/badge/-dideoluwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darasimi-oni-169032236/) is where you can get to me on LinkedIn.
 <hr>
+![Language Breakdown](https://img.shields.io/github/languages/top/your-username/your-repo-name)
 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
